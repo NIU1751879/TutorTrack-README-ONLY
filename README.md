@@ -104,3 +104,19 @@ To support a multilingual user base without sacrificing performance:
 * **Scalability:** The serverless stack (Vercel + Supabase) ensures the platform can handle thousands of concurrent users with zero infrastructure maintenance.
 * **Engagement:** The gamification engine (Points/Rewards) led to a documented increase in assignment completion rates during testing phases.
 ```
+
+---
+
+## Strategic Evolution & Market Pivot
+
+### Adapting to the AI Landscape (NotebookLM Effect)
+The rapid emergence of specialized AI platforms—most notably Google’s **NotebookLM**—has fundamentally redefined educational workflows. Generative document synthesis, automated study guides, and instant content interaction have commoditized traditional task distribution and basic administrative tools. 
+
+To maintain a defensible edge, TutorTrack is undergoing a strategic realignment:
+
+* **Restructuring the Value Proposition:** Shifting focus away from basic task assignment toward **advanced learning analytics**, behavioral tracking, and actionable performance metrics for educators.
+* **Platform Complementary Integration:** Position TutorTrack as an operational and analytical intelligence layer that integrates alongside tools like NotebookLM, transforming raw AI study interactions into trackable long-term progress data.
+
+### Strategic Pause & MVP Validation
+* **Development On Hold:** Further feature expansion on the core architecture is paused while assessing initial user engagement and validation on the MVP.
+* **Data-Driven Iteration:** Future engineering efforts will strictly follow feedback gathered during the MVP phase, ensuring resources are directed solely toward high-impact data analytics features that address post-AI educational gaps.
